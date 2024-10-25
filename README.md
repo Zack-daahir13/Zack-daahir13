@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zack Daahir</h1>
-<h3 align="center">A passionate Full stack developer from Somalia</h3>
+<h3 align="center">A passionate Software developer from Somalia</h3>
 <img align="right" alt="Coding" width="400" src="https://contentscribblers.com/img/ser_sec1_left1.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zack-daahir13&label=Profile%20views&color=0e75b6&style=flat" alt="zack-daahir13" /> </p>
 
